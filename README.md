@@ -3,7 +3,7 @@
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 ```
 Developed by: yashvanth k
-RegisterNumber: 212223240186
+RegisterNumber: 212224245003
 ```
 
 **AIM:**
